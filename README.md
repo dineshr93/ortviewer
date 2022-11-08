@@ -19,7 +19,7 @@ Install the dependencies...
 
 ```bash
 cd ortviewer
-npm install
+npm install .
 ```
 
 ...then start [Rollup](https://rollupjs.org):
